@@ -1,0 +1,12 @@
+torch
+opencv-python
+numpy
+pandas
+matplotlib
+gtts
+playsound
+pyttsx3
+tqdm
+tk
+pygame
+moviepy

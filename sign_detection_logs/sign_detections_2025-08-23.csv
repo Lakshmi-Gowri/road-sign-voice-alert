@@ -1,0 +1,2 @@
+Timestamp,Date,Time,Detected_Sign,Confidence,Detection_Source,Language,Location_Info,Session_ID
+2025-08-23T13:10:52.510301,2025-08-23,13:10:52,No passing for vehicles over 3.5 metric tons,1.0000,Image,English,File: 10_17135_1577672005.539782.png,20250823_131052
